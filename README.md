@@ -1,2 +1,2 @@
 # Sc-Krek
-Hallo
+git clone

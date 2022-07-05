@@ -1,6 +1,6 @@
 # Sc-Krek
-git clone
- https://github.com/Andre200805/Sc-Krek
+git clone https://github.com/Andre-XD-Crack/Sc-Krek
+ 
 
 cd Sc-Krek
 
